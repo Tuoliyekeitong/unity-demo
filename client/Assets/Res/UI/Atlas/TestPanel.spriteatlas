@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TestPanel
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 74
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 847489fab48fc40a1b288a15bd31c6fc, type: 3}
+    totalSpriteSurfaceArea: 1270764
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ad5db0818586144549df8efb433de884, type: 3}
+  - {fileID: 21300000, guid: 296a99a192c5842f29865af6bbd0357b, type: 3}
+  - {fileID: 21300000, guid: ce8572e1985554685bd969c94ee629c9, type: 3}
+  - {fileID: 21300000, guid: a617d813f06e54e9e8450737058b4e62, type: 3}
+  - {fileID: 21300000, guid: e9f331940c6ce4816ab90132f3bf4a9b, type: 3}
+  - {fileID: 21300000, guid: 9ed221767504a4a53b03c9f8e580ddee, type: 3}
+  - {fileID: 21300000, guid: 454cd4290ff83445195064e3a1c85746, type: 3}
+  - {fileID: 21300000, guid: 0cff7879173b14c02b85bf1c7e25f7d7, type: 3}
+  - {fileID: 21300000, guid: 01ee18be4a286498bace31c09276fe2b, type: 3}
+  - {fileID: 21300000, guid: 0ec3ccbe3f41d46379575d9f2b14e9ce, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - bt_grade_goods
+  - ui_progressbar
+  - ui_bg_ navigationbar
+  - ui_progressbar 1
+  - bg
+  - ui_bg_progressrate
+  - ui_grade_ indicator
+  - ui_progressbar_groove
+  - bt_instruct_white
+  - ui_bg_ levelreward
+  m_RenderDataMap: {}
+  m_Tag: TestPanel
+  m_IsVariant: 0
